@@ -1,0 +1,21 @@
+name: '🚀 Promote to the community'
+labels: ['hosting']
+description: 'Would you like to move a WireMock integration to the community GitHub org? Let's do so!'
+
+body:
+  - type: textarea
+    attributes:
+      label: Proposal
+      description: Describe the proposal and what is needed for hosting and transfer
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Locations
+      label: "Links to the repositories and other resources (e.g. package manager accounts) that would need to be moved/transferred"
+
+  - type: textarea
+    attributes:
+      label: References
+      label: Reference any relevant documentation, other materials or issues/pull requests
