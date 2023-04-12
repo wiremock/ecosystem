@@ -1,6 +1,6 @@
 name: '🚀 Promote to the community'
 labels: ['hosting']
-description: 'Would you like to move a WireMock integration to the community GitHub org? Let's do so!'
+description: "Would you like to move a WireMock integration to the community GitHub org? Let's do so!"
 
 body:
   - type: textarea
