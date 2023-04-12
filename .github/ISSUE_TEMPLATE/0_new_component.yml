@@ -1,0 +1,21 @@
+name: '🧩 New WireMock integration'
+labels: ['enhancement']
+description: 'Submit a proposal for any NEW integration, extension or SDK implementation'
+
+body:
+  - type: textarea
+    attributes:
+      label: Proposal
+      description: Summarize your idea and use-cases here
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Prior work
+      label: "If there are any existing implementations, prototypes, blogs or etc, let us know!"
+
+  - type: textarea
+    attributes:
+      label: References
+      label: Reference any relevant documentation, other materials or issues/pull requests that can be used for inspiration.
