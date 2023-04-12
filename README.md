@@ -5,7 +5,7 @@ There are also various training, consulting and commercial offerings on the top 
 In this repository, we try to somehow organize them and help others to discover all the projects:
 
 - Overviews of existing WireMock integrations, extensions and implementations, open source or not
-- Feature requests for **new** all things WireMock ecosystem items. Use existing repositories to address the existing ones 
+- Feature requests for **NEW** WireMock related components. Use existing repositories to address the existing ones 
 - Requests for moving the components to WireMock GitHub organization and making them a part of the community governance
 
 ## WireMock Landscape
